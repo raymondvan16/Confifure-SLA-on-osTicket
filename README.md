@@ -1,6 +1,4 @@
 # osTicket SLA examples
-Resetting a users password with osTicket.
-
 
 Configuring SLAs (Sev-A, Sev-B, and Sev-C) with osTicket
 <p align="center">
