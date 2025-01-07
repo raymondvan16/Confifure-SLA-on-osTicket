@@ -1,4 +1,4 @@
-# osTicket Password Reset
+# osTicket SLA examples
 Resetting a users password with osTicket.
 
 
